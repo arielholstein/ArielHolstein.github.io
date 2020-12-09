@@ -2,9 +2,9 @@
 layout: post
 categories: posts
 title: Tab saver
-tags: [CODE, AHK]
+tags: [Volunteering]
 date-string: 
-featured-image: \images\hAn9tZYrb5.gif
+featured-image: 
 ---
 
 <H1>USE</H1>
@@ -14,5 +14,5 @@ This lets you save lists of URLs as .Tabs files then open them later with you de
 </p>
 
 <center>
-<p><a href="https://github.com/Zabakes/export-tabs-urls" target="_blank">Download from github</a></p>
+<p><a href="https://www.fcpgh.org/" target="_blank">To learn more about Friendship Circle, click here</a></p>
 </center>
