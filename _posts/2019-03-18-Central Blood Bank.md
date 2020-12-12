@@ -1,0 +1,18 @@
+---
+layout: post
+categories: posts
+title: Central Blood Bank
+tags: [Volunteering]
+date-string: 
+featured-image: \images\central-blood-bank-squarelogo-1498725656443.png
+---
+<p>
+In my high school there is a blood drive every year. The National Honors Society runs it and members donate but also volunteer to help with it. I volunteered my time and helped for three years in 2017, 2018, and 2019. I made sure things went smoothly and gave the donors a cookie and juice after their donation. It was great helping and I enjoyed it every time.
+</p>
+
+
+
+
+<center>
+<p><a href="https://www.societyforscience.org/isef/" target="_blank">To learn more about ISEF, click here</a></p>
+</center>
