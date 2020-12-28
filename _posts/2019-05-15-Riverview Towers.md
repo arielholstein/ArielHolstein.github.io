@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Friendship Circle
+title: Riverview Towers
 tags: [Volunteering]
 date-string: 
 featured-image: \images\New_Riverview_Alone_w_tag.png
