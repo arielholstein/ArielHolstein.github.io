@@ -12,7 +12,7 @@ I have been refereeing since 2017. I referee the weapons foil and epee. I starte
 
 <img src="\images\ref3.JPG" >
 <img src="\images\ref2.JPG" >
-<img src="\images\ref3.JPG" >
+
 
 
 <center>
